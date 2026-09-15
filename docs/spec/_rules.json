@@ -2,7 +2,7 @@
   "rules": {
     "protocol.orders.all-slots-initialized": {
       "url": "#r-protocol.orders.all-slots-initialized",
-      "source_file": "/home/v/s/discretionary_engine/docs/spec/protocol.md",
+      "source_file": "/home/v/s/ev_invest/_quant/discretionary_engine/docs/spec/protocol.md",
       "source_line": 13,
       "text": null,
       "status": null,
@@ -13,7 +13,7 @@
     },
     "protocol.orders.id-match": {
       "url": "#r-protocol.orders.id-match",
-      "source_file": "/home/v/s/discretionary_engine/docs/spec/protocol.md",
+      "source_file": "/home/v/s/ev_invest/_quant/discretionary_engine/docs/spec/protocol.md",
       "source_line": 9,
       "text": null,
       "status": null,
@@ -24,7 +24,7 @@
     },
     "protocol.orders.id-stability": {
       "url": "#r-protocol.orders.id-stability",
-      "source_file": "/home/v/s/discretionary_engine/docs/spec/protocol.md",
+      "source_file": "/home/v/s/ev_invest/_quant/discretionary_engine/docs/spec/protocol.md",
       "source_line": 5,
       "text": null,
       "status": null,
@@ -35,7 +35,7 @@
     },
     "protocol.orders.market-first": {
       "url": "#r-protocol.orders.market-first",
-      "source_file": "/home/v/s/discretionary_engine/docs/spec/protocol.md",
+      "source_file": "/home/v/s/ev_invest/_quant/discretionary_engine/docs/spec/protocol.md",
       "source_line": 19,
       "text": null,
       "status": null,
