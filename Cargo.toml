@@ -17,6 +17,9 @@ comparison_to_empty = "allow"
 undocumented_unsafe_blocks = "warn"
 tabs_in_doc_comments = "allow"
 
+[workspace.lints.cargo]
+non_kebab_case_bins = "allow"
+
 [workspace.dependencies]
 ahash = "0.8.12"
 arc-swap = "1"
